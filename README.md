@@ -9,7 +9,7 @@ Prints out training loss, validation loss, and validation accuracy as the networ
 #### Options: 
 Set directory to save checkpoints: python train.py data_dir --save_dir save_directory <br />
 Choose architecture: python train.py data_dir --arch "vgg16"<br />
-    VGG16 or DenseNet121 architecture is available<br />
+<space><space><space><space><space>VGG16 or DenseNet121 architecture is available<br />
 Set hyperparameters: python train.py data_dir --learning_rate 0.01 --hidden_units 512 --epochs 20 <br />
 Use GPU for training: python train.py data_dir --gpu <br />
 
