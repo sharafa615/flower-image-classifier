@@ -3,8 +3,8 @@
 ## Command Line Application Usage
 
 ### Train
-Train a new network on a data set with train.py
-Basic usage: python train.py data_directory
+Train a new network on a data set with train.py  <br />
+Basic usage: python train.py data_directory  <br />
 Prints out training loss, validation loss, and validation accuracy as the network trains
 Options:
 Set directory to save checkpoints: python train.py data_dir --save_dir save_directory
